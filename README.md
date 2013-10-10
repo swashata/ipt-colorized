@@ -1,6 +1,7 @@
 # WP Colorized Theme
 ### yet another WordPress Theme by iPanelThemes.com
 ![Colorized Theme Logo](screenshot.png?raw=true)
+
 Colorized theme is a free yet powerful wordpress theme for showcase and/or fests related websites.
 
 We made this theme during our early stage of development, when we were still in college. As you can guess, this theme is actually meant for hosting college feast related websites. Right now, our college website (and we are the proud alumni) uses this theme. You can check it out at [RCCTimes](http://rcctimes.org).
