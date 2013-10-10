@@ -18,7 +18,7 @@ Has functionality for custom-background, custom-header and post thumbnails.
 Static front page is ideal for showcase type sites.
 Dynamic front page is ideal for fest type sites.
 
-Please refer to [Documentation](http://ipanelthemes.com/colorized/category/documentation/) to know more about the features.
+Please refer to [Documentation](http://ipanelthemes.com/kb/wp-colorized-theme/) to know more about the features.
 
 
 == Changelog ==
