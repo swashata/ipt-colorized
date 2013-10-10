@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Colorized Theme\n"
+"POT-Creation-Date: 2013-10-10 16:46+0530\n"
+"PO-Revision-Date: 2013-10-10 16:47+0530\n"
+"Last-Translator: Swashata Ghosh <swashata4u@gmail.com>\n"
+"Language-Team: ipanelthemes.com <ipanelthemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:4
+msgid ""
+"The page you are looking for no longer exists. Please head back to the "
+"homepage by clicking this link"
+msgstr ""
+
+#: ../comments.php:15
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:32
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:38 ../comments.php:57
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:58
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: ../entry.php:16
+msgid "Permalink to: "
+msgstr ""
+
+#: ../entry.php:31
+msgid "Read More"
+msgstr ""
+
+#: ../functions.php:25
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+"span> %3$s"
+msgstr ""
+
+#: ../functions.php:34 ../functions.php:71
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:51
+#, php-format
+msgid ""
+"This entry was posted on %5$s by %6$s in %1$s and tagged %2$s. Bookmark the "
+"<a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:53
+#, php-format
+msgid ""
+"This entry was posted on %5$s by %6$s in %1$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:55
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:239
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:242
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:248
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:248 ../functions.php:265
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Pingback:"
+msgstr ""
+
+#: ../header.php:41
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../home.php:74 ../index.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../home.php:75 ../index.php:20
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../no-results.php:10
+msgid "No Results Found"
+msgstr ""
+
+#: ../no-results.php:15
+msgid ""
+"We Could Not found what you were looking for. Please use the search form "
+"below"
+msgstr ""
+
+#: ../page.php:15 ../single.php:20
+msgid "Pages:"
+msgstr ""
+
+#: ../page.php:18 ../single.php:24
+msgid "Edit"
+msgstr ""
+
+#: ../single.php:28
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../single.php:29
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../classes/admin.php:76
+msgid "Successfully saved the options"
+msgstr ""
+
+#: ../classes/admin.php:80
+msgid ""
+"Either you have not changed anything or some error has occured. Please "
+"contact the developer"
+msgstr ""
+
+#: ../classes/admin.php:84
+msgid "The Master Reset was successful"
+msgstr ""
+
+#: ../classes/admin.php:88
+msgid "Some errors has occured uploading the files. Please check."
+msgstr ""
+
+#: ../classes/admin.php:92
+msgid "Theme Options reset was successful"
+msgstr ""
+
+#: ../classes/admin.php:96
+msgid "Piecemaker Settings reset was successful"
+msgstr ""
+
+#: ../classes/admin.php:100
+msgid "Piecemaker Content reset was successful"
+msgstr ""
+
+#: ../classes/admin.php:104
+msgid "Static Frontpage Carousel reset was successful"
+msgstr ""
+
+#: ../classes/admin.php:132
+msgid "Colorize Title & Registration Shortcuts"
+msgstr ""
+
+#: ../classes/admin.php:138
+msgid "Title Thubmnail URL"
+msgstr ""
+
+#: ../classes/admin.php:142
+msgid "Registration URL"
+msgstr ""
+
+#: ../classes/admin.php:146
+msgid "Registration Description"
+msgstr ""
+
+#: ../classes/admin.php:167
+msgid "Colorized Theme Option"
+msgstr ""
+
+#: ../classes/admin.php:167
+msgid "Theme Options"
+msgstr ""
+
+#: ../classes/admin.php:181
+msgid "Colorized Theme Options"
+msgstr ""
+
+#: ../classes/admin.php:198
+msgid "Dynamic Home Page"
+msgstr ""
+
+#: ../classes/admin.php:201
+msgid "Layout"
+msgstr ""
+
+#: ../classes/admin.php:204 ../classes/loader.php:47
+msgid "Footer"
+msgstr ""
+
+#: ../classes/admin.php:212
+msgid "Show Piecemaker"
+msgstr ""
+
+#: ../classes/admin.php:216 ../classes/admin.php:299
+msgid "Yes"
+msgstr ""
+
+#: ../classes/admin.php:216 ../classes/admin.php:299
+msgid "No"
+msgstr ""
+
+#: ../classes/admin.php:221
+msgid "If you wish to show piecemaker on homepage, then select yes."
+msgstr ""
+
+#: ../classes/admin.php:227
+msgid "Home Page Title"
+msgstr ""
+
+#: ../classes/admin.php:234
+msgid "Enter the title that will be shown on the home page."
+msgstr ""
+
+#: ../classes/admin.php:240
+msgid "Home Page Description"
+msgstr ""
+
+#: ../classes/admin.php:252
+msgid "Enter the short description that will be shown on the home page"
+msgstr ""
+
+#: ../classes/admin.php:258
+msgid "Countdown Timer"
+msgstr ""
+
+#: ../classes/admin.php:263
+msgid "Enabled?"
+msgstr ""
+
+#: ../classes/admin.php:270
+msgid "If you wish to show countdown timer on front page, then put it here"
+msgstr ""
+
+#: ../classes/admin.php:276
+msgid "BreadCrumb Prefix"
+msgstr ""
+
+#: ../classes/admin.php:283
+msgid "If you wish to show anything before the breadcrumb, then put it here"
+msgstr ""
+
+#: ../classes/admin.php:295
+msgid "Show Bubble on Background"
+msgstr ""
+
+#: ../classes/admin.php:304
+msgid ""
+"If you wish to show floating bubbles on the background image, then select "
+"yes."
+msgstr ""
+
+#: ../classes/admin.php:310
+msgid "Travelling Time Range"
+msgstr ""
+
+#: ../classes/admin.php:317
+msgid ""
+"The amount of time in second which will be maximum a bubble will take to "
+"traverse it's path. Should be more than "
+msgstr ""
+
+#: ../classes/admin.php:323
+msgid "Default Preview Image (380X230)"
+msgstr ""
+
+#: ../classes/admin.php:330
+msgid ""
+"This is the image that will be used if the post has got no featured image "
+"set. The size is 380px (width) X 230px (height)."
+msgstr ""
+
+#: ../classes/admin.php:336
+msgid "Default Icon (50X50)"
+msgstr ""
+
+#: ../classes/admin.php:343
+msgid ""
+"This is the image that will be used if the post has got no icon image set. "
+"The size is 50px (width) X 50px (height)."
+msgstr ""
+
+#: ../classes/admin.php:349
+msgid "Table Logo (124X124)"
+msgstr ""
+
+#: ../classes/admin.php:356
+msgid ""
+"This is the image that will be used behind every table. The size is 124px "
+"(width) X 124px (height)."
+msgstr ""
+
+#: ../classes/admin.php:368
+msgid "Footer Text"
+msgstr ""
+
+#: ../classes/admin.php:380
+msgid "Put your custom footer text here"
+msgstr ""
+
+#: ../classes/admin.php:386
+msgid "Show Credits"
+msgstr ""
+
+#: ../classes/admin.php:399 ../classes/admin.php:432 ../classes/admin.php:674
+#: ../classes/admin.php:753
+msgid "Save All Settings"
+msgstr ""
+
+#: ../classes/admin.php:400 ../classes/admin.php:433 ../classes/admin.php:675
+#: ../classes/admin.php:754
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../classes/admin.php:422
+#, php-format
+msgid "Please see the %sOnline Documentation%s"
+msgstr ""
+
+#: ../classes/admin.php:465
+msgid "Item "
+msgstr ""
+
+#: ../classes/admin.php:478
+msgid "Content Type"
+msgstr ""
+
+#: ../classes/admin.php:488
+msgid "Please select the type of the content."
+msgstr ""
+
+#: ../classes/admin.php:494
+msgid "Upload Source File (800X356)"
+msgstr ""
+
+#: ../classes/admin.php:500 ../classes/admin.php:521
+msgid "View Previous"
+msgstr ""
+
+#: ../classes/admin.php:503 ../classes/admin.php:524
+msgid "Remove"
+msgstr ""
+
+#: ../classes/admin.php:509
+msgid ""
+"You can upload your content here. Uploading a new content will remove the "
+"older one. Also, you can manually remove the existing one by checking the "
+"option."
+msgstr ""
+
+#: ../classes/admin.php:515
+msgid "Upload Preview Image (800X356)"
+msgstr ""
+
+#: ../classes/admin.php:530
+msgid ""
+"You can upload your preview image here. Uploading a new content will remove "
+"the older one. Also, you can manually remove the existing one by checking "
+"the option."
+msgstr ""
+
+#: ../classes/admin.php:536 ../classes/admin.php:697
+msgid "Title"
+msgstr ""
+
+#: ../classes/admin.php:543
+msgid "Put the content title."
+msgstr ""
+
+#: ../classes/admin.php:549
+msgid "Description"
+msgstr ""
+
+#: ../classes/admin.php:561
+msgid "Put the content text. Can be HTML"
+msgstr ""
+
+#: ../classes/admin.php:567
+msgid "Link"
+msgstr ""
+
+#: ../classes/admin.php:574
+msgid "If you wish to link the item to some URL then put it here."
+msgstr ""
+
+#: ../classes/admin.php:586
+msgid "Pieces"
+msgstr ""
+
+#: ../classes/admin.php:593
+msgid "Number of pieces to which the image is sliced."
+msgstr ""
+
+#: ../classes/admin.php:599
+msgid "Time"
+msgstr ""
+
+#: ../classes/admin.php:606
+msgid "Time for one cube to turn in seconds."
+msgstr ""
+
+#: ../classes/admin.php:612
+msgid "Transition type"
+msgstr ""
+
+#: ../classes/admin.php:621
+#, php-format
+msgid "Select the transition type. Please see here for %sworking demo%s"
+msgstr ""
+
+#: ../classes/admin.php:627
+msgid "Delay"
+msgstr ""
+
+#: ../classes/admin.php:634
+msgid "Delay between the start of one cube to the start of the next cube."
+msgstr ""
+
+#: ../classes/admin.php:640
+msgid "Depth Offset"
+msgstr ""
+
+#: ../classes/admin.php:647
+msgid "The offset during transition on the z-axis."
+msgstr ""
+
+#: ../classes/admin.php:653
+msgid "Cube Distance"
+msgstr ""
+
+#: ../classes/admin.php:660
+msgid ""
+"The distance between the cubes during transition. Values between 5 and 50 "
+"are recommended. But go for experiments."
+msgstr ""
+
+#: ../classes/admin.php:687
+msgid "Carousel "
+msgstr ""
+
+#: ../classes/admin.php:704
+msgid "Enter the title of the element."
+msgstr ""
+
+#: ../classes/admin.php:710
+msgid "Icon"
+msgstr ""
+
+#: ../classes/admin.php:717
+msgid "Enter the icon of the element."
+msgstr ""
+
+#: ../classes/admin.php:723
+msgid "Link to"
+msgstr ""
+
+#: ../classes/admin.php:730
+msgid "If you want to hyperlink the carousel item, then enter the URL here."
+msgstr ""
+
+#: ../classes/admin.php:736
+msgid "Text"
+msgstr ""
+
+#: ../classes/admin.php:743
+msgid "Enter the description for the element."
+msgstr ""
+
+#: ../classes/admin.php:804
+msgid "Reset"
+msgstr ""
+
+#: ../classes/admin.php:828
+msgid "File is empty."
+msgstr ""
+
+#: ../classes/admin.php:833
+msgid "Failed upload test"
+msgstr ""
+
+#: ../classes/admin.php:847
+msgid "Invalid file type"
+msgstr ""
+
+#: ../classes/admin.php:858
+msgid "The uploaded file is not a valid format of the given type."
+msgstr ""
+
+#: ../classes/admin.php:866
+msgid "The uploaded file could not be moved."
+msgstr ""
+
+#: ../classes/admin.php:906 ../classes/admin.php:910
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../classes/admin.php:977
+msgid "Error on piecemaker source item #"
+msgstr ""
+
+#: ../classes/admin.php:997
+msgid "Error on piecemaker image item #"
+msgstr ""
+
+#: ../classes/admin.php:1056
+msgid "Overview"
+msgstr ""
+
+#: ../classes/admin.php:1058
+msgid ""
+"Thank you for your interest in our theme. Colorized Theme holds the "
+"following key features."
+msgstr ""
+
+#: ../classes/admin.php:1060
+msgid ""
+"<strong>Multiple Homepage Layout:</strong> You can have either a dynamic "
+"homepage with piecemaker or static homepage with carousel contents."
+msgstr ""
+
+#: ../classes/admin.php:1061
+msgid ""
+"<strong>Piecemaker:</strong> Successful implementation of piecemaker 2 on "
+"your dynamic homepage. You can have images, videos or flash contents."
+msgstr ""
+
+#: ../classes/admin.php:1062
+msgid ""
+"<strong>Frontpage Carousel:</strong> Custom carousel on your static "
+"frontpage."
+msgstr ""
+
+#: ../classes/admin.php:1063
+msgid ""
+"<strong>Sponsors Widget:</strong> A good looking sponsors widget for the "
+"footer."
+msgstr ""
+
+#: ../classes/admin.php:1065
+msgid ""
+"Colorized theme is intended mainly for showcase or fests related websites. "
+"However you can get creative and use it anyway you like. Be sure to mail us "
+"at <a href=\"http://www.ipanelthemes.com/contact\">iPanelThemes</a> to show "
+"your creativity."
+msgstr ""
+
+#: ../classes/admin.php:1070
+msgid "Piecemaker"
+msgstr ""
+
+#: ../classes/admin.php:1072
+msgid ""
+"Piecemaker is shown on the very home page. If you are showing your frontpage "
+"as the latest posts, then on your home page piecemaker will show up along "
+"with your latest posts."
+msgstr ""
+
+#: ../classes/admin.php:1073
+msgid ""
+"To change the piecemaker items, use this theme options area &raquo; "
+"Piecemaker Contents &amp; Transitions. Also play with the piecemaker "
+"settings to get the ultimate tuning."
+msgstr ""
+
+#: ../classes/admin.php:1078
+msgid "Carousel"
+msgstr ""
+
+#: ../classes/admin.php:1080
+msgid ""
+"Carousel is an element of your static frontpage. Use theme options &raquo; "
+"Carousels to add carousel elements."
+msgstr ""
+
+#: ../classes/admin.php:1081
+msgid ""
+"The content of the page you use for static frontpage, will be used as the "
+"frontpage title."
+msgstr ""
+
+#: ../classes/admin.php:1086
+msgid "Sponsors"
+msgstr ""
+
+#: ../classes/admin.php:1088
+msgid "Colorized Theme comes with a nice looking sponsors widget."
+msgstr ""
+
+#: ../classes/admin.php:1089
+msgid ""
+"Navigate to <a href=\"widgets.php\">Widgets</a> and select the Colorized "
+"Sponsors widget. Drop it to the footer area and get started."
+msgstr ""
+
+#: ../classes/admin.php:1094
+msgid "Thumbnails"
+msgstr ""
+
+#: ../classes/admin.php:1096
+msgid ""
+"The featured image is set automatically as the preview thumbnail on archive "
+"pages and homepage."
+msgstr ""
+
+#: ../classes/admin.php:1097
+msgid ""
+"You can also set a small 50X50 icon for posts to show up on specified pages "
+"before the page title."
+msgstr ""
+
+#: ../classes/admin.php:1102
+msgid "Registration"
+msgstr ""
+
+#: ../classes/admin.php:1104
+msgid ""
+"You can link to some registration page by simply entering registration URL "
+"while editing creating any posts."
+msgstr ""
+
+#: ../classes/admin.php:1105
+msgid ""
+"A nice looking image with your link and text will appear below the post if "
+"you have entered the URL."
+msgstr ""
+
+#: ../classes/admin.php:1106
+msgid ""
+"You can use our <a href=\"http://codecanyon.net/item/wp-feedback-survey-quiz-"
+"manager-pro/3180835?ref=iPanelThemes\">FSQM Pro</a> plugin to power up your "
+"registration."
+msgstr ""
+
+#: ../classes/admin.php:1111
+msgid "Credits"
+msgstr ""
+
+#: ../classes/admin.php:1113
+msgid ""
+"This is a Free <a href=\"http://wordpress.org/extend/themes/\">WordPress "
+"Theme</a> designed specifically for our college fest website."
+msgstr ""
+
+#: ../classes/admin.php:1114
+msgid "The theme uses a few free and/or open source products, which are:"
+msgstr ""
+
+#: ../classes/admin.php:1116
+msgid ""
+"<strong><a href=\"http://www.google.com/webfonts/\">Google WebFont</a></"
+"strong> : To make the theme look better."
+msgstr ""
+
+#: ../classes/admin.php:1117
+msgid ""
+"<strong><a href=\"http://bxslider.com/\">BXSlider</a></strong> : For the "
+"carousel and homepage slider."
+msgstr ""
+
+#: ../classes/admin.php:1118
+msgid ""
+"<strong><a href=\"http://www.inwebson.com/jquery/jqfloat-js-a-floating-"
+"effect-with-jquery/\">jqFloat</a></strong> : For the floating bubbles."
+msgstr ""
+
+#: ../classes/admin.php:1119
+msgid ""
+"<strong><a href=\"http://www.modularweb.net/en/portfolio/"
+"piecemaker2\">Piecemaker 2</a></strong> : For the homepage flash slider."
+msgstr ""
+
+#: ../classes/admin.php:1120
+msgid ""
+"<strong><a href=\"http://keith-wood.name/countdown.html\">jQuery Countdown</"
+"a></strong> : For the homepage countdown."
+msgstr ""
+
+#: ../classes/admin.php:1121
+msgid ""
+"<strong><a href=\"http://icons.mysitemyway.com/\">MySiteMyWay</a></strong> : "
+"For the navigation icons."
+msgstr ""
+
+#: ../classes/admin.php:1123
+msgid ""
+"Designed by <a href=\"http://en.gravatar.com/akashghosh\">Akash Ghosh</a>, "
+"Developed by <a href=\"http://www.swashata.com/\">Swashata Ghosh</a>."
+msgstr ""
+
+#: ../classes/admin.php:1127
+msgid "For more information:"
+msgstr ""
+
+#: ../classes/admin.php:1128
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: ../classes/admin.php:1129
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Support Forums</a>"
+msgstr ""
+
+#: ../classes/admin.php:1137
+msgid "General Theme Settings"
+msgstr ""
+
+#: ../classes/admin.php:1138
+msgid "Piecemaker Contents &amp; Transitions"
+msgstr ""
+
+#: ../classes/admin.php:1139
+msgid "Piecemaker Settings"
+msgstr ""
+
+#: ../classes/admin.php:1140
+msgid "Static FrontPage Carousel Settings"
+msgstr ""
+
+#: ../classes/admin.php:1487
+msgid "Upload"
+msgstr ""
+
+#: ../classes/loader.php:40
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../classes/loader.php:49
+msgid "Primarily for the Sponsors Widget"
+msgstr ""
+
+#: ../classes/loader.php:117
+msgid "My Site"
+msgstr ""
+
+#: ../classes/loader.php:122
+msgid "My Awesome Site"
+msgstr ""
+
+#: ../classes/loader.php:123
+msgid "A catch line goes here"
+msgstr ""
+
+#: ../classes/loader.php:124
+msgid "&copy; Copyright 2012 - All rights reserved"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:13
+msgid "Colorized Sponsors"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:14
+msgid "Sponsors Widgets, for the footer area only."
+msgstr ""
+
+#: ../classes/sponsors-widget.php:120
+msgid "Title of Widget: "
+msgstr ""
+
+#: ../classes/sponsors-widget.php:126
+msgid "Title of Sponsor:"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:130
+msgid "Title of Image:"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:134
+msgid "Type of Sponsor:"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:136
+msgid "Big"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:137
+msgid "Small"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:142
+msgid ""
+"For small type sponsors, image size is 80X25 and for big type, the size is "
+"80X80."
+msgstr ""
+
+#: ../classes/sponsors-widget.php:146
+msgid "Image of Sponsor:"
+msgstr ""
+
+#: ../classes/sponsors-widget.php:150
+msgid "Link of Sponsor:"
+msgstr ""

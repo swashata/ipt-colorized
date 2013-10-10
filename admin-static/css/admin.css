@@ -1,0 +1,259 @@
+/*
+    Document   : admin
+    Created on : 13 Jun, 2012, 6:07:22 PM
+    Author     : swashata
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.itg-box-left {
+    float: left;
+}
+.itg-box-rigth {
+    float: right;
+}
+.itg-box-full {
+    width: 90%;
+    margin: auto;
+}
+.itg-box-big {
+    width: 65%;
+}
+.itg-box-medium {
+    width: 32%;
+}
+.slider {
+    margin: 5px auto;
+    width: 90%;
+}
+.slider_range_inputs {
+    margin: 10px 0 0;
+    text-align: center;
+}
+
+tr .slider {
+    float: right;
+    margin: 5px;
+}
+
+.slider-text {
+    display: block;
+    margin: 0 auto;
+}
+
+tr .slider-text {
+    float: right;
+    margin: 0 15px 0 0;
+}
+
+table.form-table td label {
+    display: block;
+    padding: 3px 0;
+}
+
+label .label_left {
+    float: left;
+}
+
+
+span.help {
+    display: block;
+    height: 16px; width: 16px;
+    text-indent: -9999px;
+    background: url('../images/help_16.png') no-repeat scroll center;
+    cursor: pointer;
+    overflow: hidden;
+}
+td span.help {
+    float: right;
+}
+a.help_button {
+    display: block;
+    height: 16px; width: 16px;
+    text-indent: -9999px;
+    background: url('../images/help_16.png') no-repeat scroll center;
+}
+td a.help_button {
+    float: right;
+}
+fieldset.widefat legend {
+    padding: 10px;
+    margin: 10px 15px;
+
+}
+fieldset.widefat legend h4 {
+    margin: 0 5px;
+    display: inline-block;
+}
+fieldset.widefat legend a.help_button {
+    float: right;
+    margin: 2px 0 0 20px;
+}
+
+.colorpicker {
+    z-index: 10;
+}
+
+
+
+div.table {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+p.sub {
+	padding: 0 0 5px;
+	color: #8f8f8f;
+	font-size: 14px;
+        border-bottom: #ececec 1px solid;
+        margin: 0 0 10px;
+}
+
+div.table_content {
+	float: left;
+	width: 45%;
+}
+
+div.table_content.right {
+	float: right;
+	width: 45%;
+}
+
+div.table table td {
+	padding: 3px 0;
+	white-space: nowrap;
+}
+
+div.table table tr.first td {
+	border-top: none;
+}
+
+div.table td.b {
+	padding-right: 6px;
+	text-align: right;
+	font-size: 14px;
+	width: 1%;
+}
+
+div.table td.b a {
+	font-size: 18px;
+        font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+}
+
+div.table td.b a:hover {
+	color: #d54e21;
+}
+
+div.table .t {
+	font-size: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	color: #777;
+}
+
+div.table .t a {
+	white-space: nowrap;
+}
+
+div.table .spam {
+	color: red;
+}
+
+div.table .waiting {
+	color: #e66f00;
+}
+
+div.table .approved {
+	color: green;
+}
+div.table a {
+    text-decoration: none;
+}
+
+#side-sortables .submit {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    float: left;
+    margin: 0;
+    padding: 0 12px;
+}
+
+/* jQuery UI fix for pages with WP Editor */
+
+.ui-widget-overlay {
+    background: url("images/ui-bg_flat_0_aaaaaa_40x100.png") repeat-x scroll 50% 50% #AAAAAA !important;
+    opacity: 0.3 !important;
+}
+
+
+ul.sortable_ul li {
+    display: block;
+    cursor: move;
+}
+
+.ui-widget-overlay {
+    height: 100%;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 100%;
+}
+body .ui-front {
+	z-index: 300002;
+}
+
+.add a {
+    color: #006505;
+}
+.pending a, .deactivate a {
+    color: #D98500;
+}
+
+select[name="bulk_action"], select[name="bulk_action2"] {
+    width: 130px;
+}
+
+#ajax_cb {
+    display: none;
+    text-align: center;
+    padding: 20px;
+}
+
+.p-message {
+    border-radius: 3px;
+    padding: 0 0.6em;
+    margin: 5px 0 15px;
+    border: 1px solid;
+    clear: both;
+    background-color: #fff;
+    border-color: #ddd;
+}
+
+.admin-color-classic .p-message {
+    border-color: #D1E5EE;
+}
+
+.p-message.error, .p-message.red {
+    background-color: #FFEBE8;
+    border-color: #CC0000;
+}
+
+.p-message.update, .p-message.yellow {
+    background-color: #FFFFE0;
+    border-color: #E6DB55;
+}
+
+.p-message.green, .p-message.okay {
+    background-color: #e8ffea;
+    border-color: #00cc18;
+}
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
